@@ -14,18 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<html>
-  <head>
-    <style>
-      .h1{
-        color: 00000;
-        }
-    </style>
-  </head>
-  <body>
-    <div>
-      <h1>Olá</h1>
-    </div>
-  </body>
-</html>
+<h1>Olá Mundo</h1>
