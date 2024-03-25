@@ -1,4 +1,4 @@
-## <p align="center"> Olá! eu sou o Rian.</p>
+## <p align="center"> Olá, eu sou o Rian.</p>
 
 <div align="center">
   <div>
