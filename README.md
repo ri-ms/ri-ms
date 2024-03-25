@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <html>
   <head>
     <style>
-      
+      .h1{
+        color: 00000;
+        }
     </style>
   </head>
   <body>
